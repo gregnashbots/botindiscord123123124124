@@ -19,6 +19,7 @@
   "homepage": "https://github.com/gregnashbots/botindiscord123123124124#readme",
   "dependencies": {
     "discord.js": "^13.4.0",
+    "discord.js-commando": "^0.12.3",
     "express": "^4.17.2",
     "server.js": "^1.0.0"
   }

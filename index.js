@@ -51,4 +51,4 @@ client.once('ready', () => {
 });
 
 
-client.login(process.env.token);
+client.login(token);
